@@ -1,0 +1,31 @@
+{
+  "name": "@koyomidays/solar-terms",
+  "version": "1.0.0",
+  "description": "Zero-dependency ESM lookup helpers for the 24 solar terms (2020-2035) computed with VSOP87D at exact minute precision in UTC, JST, and UTC+8.",
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "keywords": [
+    "solar-terms",
+    "jieqi",
+    "sekki",
+    "vsop87d",
+    "east-asian-calendar",
+    "lunisolar"
+  ],
+  "author": "Koyomi Days (https://koyomidays.com)",
+  "license": "CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smallcolor/east-asian-calendar-open-data.git",
+    "directory": "packages/solar-terms"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

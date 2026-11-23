@@ -1,0 +1,21 @@
+{
+  "title": "East Asian Calendar & Solar Terms Open Data (2020-2035)",
+  "id": "koyomidays/east-asian-calendar-open-data",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "calendar",
+    "astronomy",
+    "solar-terms",
+    "lunar-calendar",
+    "east-asia",
+    "vsop87d",
+    "rokuyo",
+    "javanese-calendar"
+  ],
+  "subtitle": "Deterministic JSON and CSV datasets for 24 solar terms, lunar new moons, cross-timezone Lunar New Year dates, Japanese almanac, Korean Son-eomneun-nal, and Javanese Pasaran cycles.",
+  "description": "Structured JSON and CSV datasets covering 24 solar terms (2020-2035, VSOP87D at exact minute precision in UTC, JST, and UTC+8), lunar new moons (2020-2035), cross-timezone Lunar New Year dates (China UTC+8, Vietnam UTC+7, Korea UTC+9), Japanese almanac indicators (2025-2030), Korean Son-eomneun-nal dates (2025-2030), and Javanese Pasaran/Weton cycles (2025-2030). Generated deterministically by Koyomi Days (https://koyomidays.com/en/open-data/)."
+}
