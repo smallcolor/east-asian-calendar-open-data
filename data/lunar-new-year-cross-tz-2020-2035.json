@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "dataset": "lunar-new-year-cross-tz-2020-2035",
+    "generator": "koyomidays.com",
+    "license": "CC BY 4.0",
+    "rules": {
+      "china_utc8": "lunar-hko/2",
+      "korea_utc9": "lunar-jst/1",
+      "vietnam_utc7": "vn-lunar.js (2026-2030) + astronomy-engine 2.1.19 UTC+7 (2020-2025, 2031-2035); unverified against official VN table"
+    },
+    "years": "2020-2035"
+  },
+  "count": 16,
+  "items": [
+    {
+      "lunar_year": 2020,
+      "ganzhi": "庚子",
+      "zodiac_en": "Rat",
+      "china_utc8_date": "2020-01-25",
+      "vietnam_utc7_date": "2020-01-25",
+      "korea_utc9_date": "2020-01-25",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2021,
+      "ganzhi": "辛丑",
+      "zodiac_en": "Ox",
+      "china_utc8_date": "2021-02-12",
+      "vietnam_utc7_date": "2021-02-12",
+      "korea_utc9_date": "2021-02-12",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2022,
+      "ganzhi": "壬寅",
+      "zodiac_en": "Tiger",
+      "china_utc8_date": "2022-02-01",
+      "vietnam_utc7_date": "2022-02-01",
+      "korea_utc9_date": "2022-02-01",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2023,
+      "ganzhi": "癸卯",
+      "zodiac_en": "Rabbit",
+      "china_utc8_date": "2023-01-22",
+      "vietnam_utc7_date": "2023-01-22",
+      "korea_utc9_date": "2023-01-22",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2024,
+      "ganzhi": "甲辰",
+      "zodiac_en": "Dragon",
+      "china_utc8_date": "2024-02-10",
+      "vietnam_utc7_date": "2024-02-10",
+      "korea_utc9_date": "2024-02-10",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2025,
+      "ganzhi": "乙巳",
+      "zodiac_en": "Snake",
+      "china_utc8_date": "2025-01-29",
+      "vietnam_utc7_date": "2025-01-29",
+      "korea_utc9_date": "2025-01-29",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2026,
+      "ganzhi": "丙午",
+      "zodiac_en": "Horse",
+      "china_utc8_date": "2026-02-17",
+      "vietnam_utc7_date": "2026-02-17",
+      "korea_utc9_date": "2026-02-17",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2027,
+      "ganzhi": "丁未",
+      "zodiac_en": "Goat",
+      "china_utc8_date": "2027-02-06",
+      "vietnam_utc7_date": "2027-02-06",
+      "korea_utc9_date": "2027-02-07",
+      "differs_cn_vn": false,
+      "differs_cn_kr": true
+    },
+    {
+      "lunar_year": 2028,
+      "ganzhi": "戊申",
+      "zodiac_en": "Monkey",
+      "china_utc8_date": "2028-01-26",
+      "vietnam_utc7_date": "2028-01-26",
+      "korea_utc9_date": "2028-01-27",
+      "differs_cn_vn": false,
+      "differs_cn_kr": true
+    },
+    {
+      "lunar_year": 2029,
+      "ganzhi": "己酉",
+      "zodiac_en": "Rooster",
+      "china_utc8_date": "2029-02-13",
+      "vietnam_utc7_date": "2029-02-13",
+      "korea_utc9_date": "2029-02-13",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2030,
+      "ganzhi": "庚戌",
+      "zodiac_en": "Dog",
+      "china_utc8_date": "2030-02-03",
+      "vietnam_utc7_date": "2030-02-02",
+      "korea_utc9_date": "2030-02-03",
+      "differs_cn_vn": true,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2031,
+      "ganzhi": "辛亥",
+      "zodiac_en": "Pig",
+      "china_utc8_date": "2031-01-23",
+      "vietnam_utc7_date": "2031-01-23",
+      "korea_utc9_date": "2031-01-23",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2032,
+      "ganzhi": "壬子",
+      "zodiac_en": "Rat",
+      "china_utc8_date": "2032-02-11",
+      "vietnam_utc7_date": "2032-02-11",
+      "korea_utc9_date": "2032-02-11",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2033,
+      "ganzhi": "癸丑",
+      "zodiac_en": "Ox",
+      "china_utc8_date": "2033-01-31",
+      "vietnam_utc7_date": "2033-01-31",
+      "korea_utc9_date": "2033-01-31",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2034,
+      "ganzhi": "甲寅",
+      "zodiac_en": "Tiger",
+      "china_utc8_date": "2034-02-19",
+      "vietnam_utc7_date": "2034-02-19",
+      "korea_utc9_date": "2034-02-19",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    },
+    {
+      "lunar_year": 2035,
+      "ganzhi": "乙卯",
+      "zodiac_en": "Rabbit",
+      "china_utc8_date": "2035-02-08",
+      "vietnam_utc7_date": "2035-02-08",
+      "korea_utc9_date": "2035-02-08",
+      "differs_cn_vn": false,
+      "differs_cn_kr": false
+    }
+  ]
+}
