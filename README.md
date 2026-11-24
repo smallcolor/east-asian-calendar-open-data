@@ -1,10 +1,14 @@
 # East Asian Calendar & Solar Terms Open Data (2020-2035)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24500394.svg)](https://doi.org/10.5281/zenodo.24500394)
+
 Deterministic JSON and CSV reference datasets for East and Southeast Asian calendrical systems, published by [Koyomi Days](https://koyomidays.com/en/open-data/) under [CC BY 4.0](LICENSE).
 
 - English Open Data Portal: https://koyomidays.com/en/open-data/
 - 日本語オープンデータ: https://koyomidays.com/ja/open-data/
 - 繁體中文開放資料: https://koyomidays.com/zh-hant/open-data/
+- Zenodo Archive (DOI): https://doi.org/10.5281/zenodo.24500394
+- Kaggle Dataset Mirror: https://www.kaggle.com/datasets/koyomidays/east-asian-calendar-open-data-2020-2035
 
 ## Datasets
 
@@ -75,4 +79,18 @@ cd packages/solar-terms && node test.mjs
 All datasets and documentation in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
 
 Attribution format:
-> Koyomi Days (https://koyomidays.com/en/open-data/), East Asian Calendar & Solar Terms Open Data (2020-2035), CC BY 4.0.
+> Koyomi Days (https://koyomidays.com/en/open-data/), East Asian Calendar & Solar Terms Open Data (2020-2035), CC BY 4.0. DOI: 10.5281/zenodo.24500394.
+
+### BibTeX Citation
+
+```bibtex
+@dataset{koyomi_days_2026_east_asian_calendar,
+  author       = {{Koyomi Days}},
+  title        = {East Asian Calendar \& Solar Terms Open Data (2020-2035)},
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.24500394},
+  url          = {https://doi.org/10.5281/zenodo.24500394}
+}
+```
